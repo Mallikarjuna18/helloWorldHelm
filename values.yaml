@@ -3,7 +3,7 @@ namespace: lucidity
 replicaCount: 3
 
 image:
-  repository: gcr.io/google-samples/hello-app
+  repository: malli183/helloworld:v1.0
   tag: "2.0"
   pullPolicy: IfNotPresent
 
