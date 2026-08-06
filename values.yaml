@@ -3,7 +3,8 @@ namespace: lucidity
 replicaCount: 3
 
 image:
-  repository: malli183/helloworld:v1.0
+  repository: malli183/helloworld
+  tag: "v1.0"
   pullPolicy: IfNotPresent
 
 service:
