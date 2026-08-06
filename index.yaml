@@ -1,0 +1,17 @@
+apiVersion: v1
+entries:
+  lucidity-test:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-08-06T05:54:01.572223+05:30"
+    description: A Helm chart for Kubernetes
+    digest: cf7615ba720ffd5670363fea52782ac76cdac24b020747d3291021b19fdc5a15
+    maintainers:
+    - email: mallikatjuna.kukati20@gmail.com
+      name: Mallikarjuna
+    name: lucidity-test
+    type: application
+    urls:
+    - lucidity-test-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-08-06T05:54:01.571546+05:30"
